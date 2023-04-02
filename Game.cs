@@ -1,4 +1,4 @@
-//This script determines the game's rules and creates the pieces
+//This script determines the game's rules and creates the pieces. In this script, you can see that I attempted to make it possible to take multiple pieces in a row, while in checkers mode, just like in actual checkers, but was unable to implement this feature in time
 using System;
 using System.Collections;
 using System.Collections.Generic;
