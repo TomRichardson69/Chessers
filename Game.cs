@@ -1,3 +1,4 @@
+//This script determines the game's rules and creates the pieces
 using System;
 using System.Collections;
 using System.Collections.Generic;
