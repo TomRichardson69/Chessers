@@ -1,3 +1,4 @@
+//This script is an AI that acts randomly, which we used temporarily, before the actual AI was finished
 using System;
 using System.Collections;
 using System.Collections.Generic;
