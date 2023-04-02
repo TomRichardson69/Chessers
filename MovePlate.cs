@@ -1,3 +1,4 @@
+//This script controls the movement and taking of pieces
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
