@@ -1,3 +1,4 @@
+//This script determines the AI which controls the opponent
 using System;
 using System.CodeDom.Compiler;
 using System.Collections;
