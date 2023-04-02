@@ -1,4 +1,4 @@
-//This script creates the pieces and determines their positions on the board. It also handles any other piece specific code, like where the pieces can move
+//This script gives the pieces the appropriate proerties, like where they can move and their starting positions
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
